@@ -67,5 +67,11 @@ The interactive Power BI dashboard highlights:
 * Strengthened skills in **data visualization, DAX, and storytelling with data**.
 * Demonstrated how analytics can directly inform **marketing strategy** and **customer experience improvements**.
 
+---
 
-## THANK YOU FOR REACHING OUT
+## 👤 Author  
+**Nij Hingrajiiya**  
+- 📍 London  
+- 📧 nijhingrajiya40@gmail.com  
+- 🌐 [My other interactive Portfolio projects](https://www.novypro.com/profile_about/nij-hingrajiya)  
+
